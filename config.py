@@ -1,0 +1,6 @@
+# config.py
+MOBILE_API_KEY = 'AIzaSyBpxZwcTUF9NkHX8_7VlWLWOcpsObhWpbk'
+MOBILE_CX = 'f6702aeb35310427d'
+
+SOCMED_API_KEY = 'AIzaSyD6UfC6ew9_BcmsIFlZ50xXHf9ozeRpcHY'
+SOCMED_CX =  "333a6c9547b904ece"
